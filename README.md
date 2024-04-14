@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAF1OLEly68/U3lF-W4JF_Xb2PSYi7Cahg/view?utm_content=DAF1OLEly68&utm_campaign=designshare&utm_medium=link&utm_source=editor#1](https://www.canva.com/design/DAF1OLEly68/U3lF-W4JF_Xb2PSYi7Cahg/view?utm_content=DAF1OLEly68&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
-- ⚡ Fun fact **I have done a lot of investing!**
+- ⚡ Fun fact **I am interested investing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
