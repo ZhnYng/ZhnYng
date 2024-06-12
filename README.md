@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a web development project**
 
-- 👨‍💻 All of my projects are available at [https://my-personal-website-zhnyng.vercel.app/](https://my-personal-website-zhnyng.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-personal-website-one-theta.vercel.app/](https://my-personal-website-one-theta.vercel.app/)
 
 - 💬 Ask me about **React, Tailwind CSS, TensorFlow**
 
