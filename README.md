@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [limzhenyang.vercel.app](https://limzhenyang.vercel.app/)
 
-- 💬 Ask me about **React, Tailwind CSS, TensorFlow**
+- 💬 Ask me about **ReactJS, NextJS, Tailwind CSS**
 
 - 📫 How to reach me **zzhenyyang@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF1OLEly68/U3lF-W4JF_Xb2PSYi7Cahg/view?utm_content=DAF1OLEly68&utm_campaign=designshare&utm_medium=link&utm_source=editor#1](https://www.canva.com/design/DAF1OLEly68/U3lF-W4JF_Xb2PSYi7Cahg/view?utm_content=DAF1OLEly68&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/12rBRSzXeQqN0oj7ecgXJtjNWvvdZ6i3TAR9Nn_Lfo6U/edit?usp=sharing)
 
-- ⚡ Fun fact **I am interested in investing**
+- ⚡ Fun fact **I enjoy listening to audiobooks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
